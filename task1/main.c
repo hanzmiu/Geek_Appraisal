@@ -7,7 +7,7 @@ int main(int argc, char *argv[]) {
 	double a = 0;
 	double h = 0.001;
 
-	printf("«Î ‰»Îa:");
+	printf("Please enter a:");
 	scanf("%lf", &a);
 
 	double y = a;

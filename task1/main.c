@@ -4,11 +4,8 @@
 int main(int argc, char *argv[]) {
 	int n = 0;
 	double x = 0;
-	double a = 0;
+	double a = 1;
 	double h = 0.001;
-
-	printf("Please enter a:");
-	scanf("%lf", &a);
 
 	double y = a;
 	printf("x\t         y\n");
